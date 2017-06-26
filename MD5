@@ -1,0 +1,10 @@
+c33948f2f05af4821a42d94817935fab *DESCRIPTION
+3c7b775355cb346d9fc4fe5f02e5fc8d *LICENSE
+7609d40f1bbbf48f67b82f33326d84cc *NAMESPACE
+213eb7821de6cc82e01f46fc82b2109d *R/CRANsearcher.R
+2baf1a588c55fb20094c51d76f555eb6 *R/data.R
+54cbe07c3a643ddfe1328270035020c5 *data/cran_inventory.rda
+1061970ae6e8810bcb789b77426c8b70 *data/datalist
+aee5c3b916458e2e2ba331a83452f960 *inst/rstudio/addins.dcf
+caaf5f7fa8d74232e771a50070c5fdf8 *man/CRANsearcher.Rd
+72a448751ac0f35a5279977565426e24 *man/cran_inventory.Rd
